@@ -12,3 +12,5 @@ in `src/hooks.js` you should replace `http://localhost:8000/` url with your back
 For user interface chakra-ui library used.
 
 ![alt text](https://github.com/samircbabayev/guestbook-front/blob/main/sc1.png?raw=true)
+![alt text](https://github.com/samircbabayev/guestbook-front/blob/main/sc2.png?raw=true)
+![alt text](https://github.com/samircbabayev/guestbook-front/blob/main/sc3.png?raw=true)
